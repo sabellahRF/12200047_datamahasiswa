@@ -15,5 +15,6 @@ class Home extends BaseController
         echo view('templates/v_topbar');
         echo view('home/index');
         echo view('templates/v_footer');
+        
     }
 }

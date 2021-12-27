@@ -1,10 +1,10 @@
-<!-- Begin Page Content -->
+<!--- Begin Page Content --->
 <div class="container-fluid">
-<!-- Page Heading -->
+<!--- Page Heading --->
 <h1 class="h3 mb-4 text-gray-800"><?= $judul ?></h1>
 
 </div>
-<!-- /.container-fluid -->
+<!--- /.container-fluid --->
 
 </div>
-<!-- End of Main Content -->
+<!--- End of Main Content --->
