@@ -64,7 +64,7 @@
 
 
 
-<!-- Modal -->
+<!--- Modal --->
 <div class="modal fade" id="modalTambah"
     <div class="model-dialog" role="document">
         <div class="modal-content">
