@@ -1,0 +1,24 @@
+CRITICAL - 2021-12-25 22:25:27 --> Undefined variable: judul
+#0 C:\xampp\htdocs\examples\sn-ci4\app\Views\templates\v_header.php(12): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'C:\\xampp\\htdocs...', 12, Array)
+#1 C:\xampp\htdocs\examples\sn-ci4\system\View\View.php(214): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\examples\sn-ci4\system\View\View.php(217): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\examples\sn-ci4\system\Common.php(1097): CodeIgniter\View\View->render('templates/v_hea...', Array, true)
+#4 C:\xampp\htdocs\examples\sn-ci4\app\Controllers\Home.php(13): view('templates/v_hea...')
+#5 C:\xampp\htdocs\examples\sn-ci4\system\CodeIgniter.php(824): App\Controllers\Home->index()
+#6 C:\xampp\htdocs\examples\sn-ci4\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#7 C:\xampp\htdocs\examples\sn-ci4\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\examples\sn-ci4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 C:\xampp\htdocs\examples\sn-ci4\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#10 {main}
+CRITICAL - 2021-12-25 22:26:01 --> Undefined variable: judul
+#0 C:\xampp\htdocs\examples\sn-ci4\app\Views\templates\v_header.php(12): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'C:\\xampp\\htdocs...', 12, Array)
+#1 C:\xampp\htdocs\examples\sn-ci4\system\View\View.php(214): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\examples\sn-ci4\system\View\View.php(217): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\examples\sn-ci4\system\Common.php(1097): CodeIgniter\View\View->render('templates/v_hea...', Array, true)
+#4 C:\xampp\htdocs\examples\sn-ci4\app\Controllers\Home.php(13): view('templates/v_hea...')
+#5 C:\xampp\htdocs\examples\sn-ci4\system\CodeIgniter.php(824): App\Controllers\Home->index()
+#6 C:\xampp\htdocs\examples\sn-ci4\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#7 C:\xampp\htdocs\examples\sn-ci4\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\examples\sn-ci4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 C:\xampp\htdocs\examples\sn-ci4\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#10 {main}
